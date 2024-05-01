@@ -134,7 +134,7 @@ else {
 <div class="row footer">
   <div class="col-md-2 box"></div>
 <div class="col-md-6 box">
-<span href="#" data-target="#login" style="color:lightyellow">vishraj and farazish<br><br></span></div>
+<span href="#" data-target="#login" style="color:lightyellow">Suhel Khan<br><br></span></div>
 <div class="col-md-2 box">
 <span href="feedback.php" style="color:lightyellow;text-decoration:underline" onmouseover="this.style('color:yellow')">Feedback</span></div>
 

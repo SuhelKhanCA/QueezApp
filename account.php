@@ -582,11 +582,7 @@ if (@$_GET['q'] == 3) {
 <div class="row footer">
  <div class="col-md-4 box"></div>
 <div class="col-md-2 box">
-<<<<<<< HEAD
-<a   style="color:lightyellow;" onmouseover="this.style('color:yellow')" >vishraj and farazish</a>
-=======
 <a   style="color:lightyellow;" onmouseover="this.style('color:yellow')" >Suhel Khan</a>
->>>>>>> 892a6400686ca6361ae127035408b5d4dd237682
 </div>
 
 <div class="col-md-4 box">
